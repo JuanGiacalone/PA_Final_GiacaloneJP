@@ -1,0 +1,1 @@
+/usr/local/code/progra_Avanzada/PA_Final_GiacaloneJP/tmp_scnn/target/debug/tmp_scnn: /usr/local/code/progra_Avanzada/PA_Final_GiacaloneJP/tmp_scnn/src/main.rs /usr/local/code/progra_Avanzada/PA_Final_GiacaloneJP/tmp_scnn/src/scnn_perf.rs /usr/local/code/progra_Avanzada/PA_Final_GiacaloneJP/tmp_scnn/src/scnn_sec.rs
